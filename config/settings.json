@@ -1,0 +1,4 @@
+{
+    "APP_CONFIG_MONGODB_URL": "mongodb://root:password@localhost:27017/",
+    "APP_CONFIG_MONGODB_NAME" : "database"
+}
